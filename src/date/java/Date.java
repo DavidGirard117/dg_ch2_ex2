@@ -16,7 +16,7 @@ public class Date {
 		String month = "October ";
 		int year = 2019;
 			
-//American format	System.out.print("The current date is ");
+			System.out.print("The current date is ");	//American format
 			System.out.print(day);
 			System.out.print(", ");
 			System.out.print(month);
@@ -25,9 +25,9 @@ public class Date {
 			System.out.print(year);
 			System.out.println(".");
 			
-			
-//European format	String month1 = " October"; 
-			System.out.print("The current date is ");
+		
+			String month1 = " October"; 	
+			System.out.print("The current date is ");	//European format
 			System.out.print(day);
 			System.out.print(", ");
 			System.out.print(date);
