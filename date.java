@@ -45,4 +45,3 @@ public class Date {
  * The current date is, Tuesday, October 15, 2019.
  * The current date is, Tuesday, 15 October, 2019.
  */
-
